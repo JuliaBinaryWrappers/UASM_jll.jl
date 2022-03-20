@@ -1,0 +1,9 @@
+[[UASM]]
+arch = "x86_64"
+git-tree-sha1 = "f9d56997f7a20d2cd2348145d1022ddc903556eb"
+libc = "musl"
+os = "linux"
+
+    [[UASM.download]]
+    sha256 = "71ab99d30c45ce3a4f25a44bca9e2561d6f05d1c8f1d21cb42c7dfbca2d26a2c"
+    url = "https://github.com/JuliaBinaryWrappers/UASM_jll.jl/releases/download/UASM-v2.55.0+0/UASM.v2.55.0.x86_64-linux-musl.tar.gz"
